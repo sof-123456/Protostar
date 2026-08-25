@@ -29,6 +29,8 @@ each one is self-contained but assumes the previous ones.
 | 15 | [15-the-beta-challenge.md](15-the-beta-challenge.md) | **The `β` challenge: compressing a tuple by degree; β vs γ; worked `F_101` instance** |
 | 16 | [16-one-example-all-four-challenges.md](16-one-example-all-four-challenges.md) | **ONE worked IVC step showing `β`, `r`, `γ`, `α` together and why their counts differ** |
 | 17 | [17-instance-equation-combine-from-scratch.md](17-instance-equation-combine-from-scratch.md) | **START HERE if confused** — minimal 4-gate example: what an instance is, what an equation is, γ combining equations vs α combining instances |
+| 18 | [18-provenance-paper-citations.md](18-provenance-paper-citations.md) | **Every claim in file 17 traced to section, page, and verbatim quote in the paper** |
+| 19 | [19-page20-walkthrough.md](19-page20-walkthrough.md) | **Paper p.20 (accumulator format + the 3 algorithm interfaces) executed with real numbers, incl. Figures 3/4/5** |
 
 ## One-paragraph summary
 
