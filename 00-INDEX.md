@@ -31,6 +31,8 @@ each one is self-contained but assumes the previous ones.
 | 17 | [17-instance-equation-combine-from-scratch.md](17-instance-equation-combine-from-scratch.md) | **START HERE if confused** — minimal 4-gate example: what an instance is, what an equation is, γ combining equations vs α combining instances |
 | 18 | [18-provenance-paper-citations.md](18-provenance-paper-citations.md) | **Every claim in file 17 traced to section, page, and verbatim quote in the paper** |
 | 19 | [19-page20-walkthrough.md](19-page20-walkthrough.md) | **Paper p.20 (accumulator format + the 3 algorithm interfaces) executed with real numbers, incl. Figures 3/4/5** |
+| 20 | [20-lookup-tables-explained.md](20-lookup-tables-explained.md) | **What a lookup table is and why membership is not an equation — `Π_LK` and `Π_VLK` (XOR) run end-to-end in `F_101`, honest prover and cheating prover** |
+| 21 | [21-folding-a-lookup-step-by-step.md](21-folding-a-lookup-step-by-step.md) | **FOLDING a lookup: `f_j` decomposition, where the error terms come from (one number at a time), 3 instances folded in a chain, and the `O(ℓ)` cached-commitment trick — all verified in `F_101`** |
 
 ## One-paragraph summary
 
